@@ -7,7 +7,7 @@ GitHub Pages를 통해 웹에서 직접 사용할 수도 있습니다!
 
 📍 배포 링크 (GitHub Pages)
 [👉 To-Do List 데모 보기](https://infiniste.github.io/todo-list-app/)
-해당 링크를 클릭하면 웹에서 바로 실행할 수 있습니다! 
+-해당 링크를 클릭하면 웹에서 바로 실행할 수 있습니다! 
 
 ---
 
